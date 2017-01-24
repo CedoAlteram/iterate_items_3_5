@@ -9,3 +9,4 @@ for letters in a:
 print (counts)
 hist = dict( (k, float(v)/len(a)) for k,v in counts.items())
 print (hist)
+print("test_branch_1")
