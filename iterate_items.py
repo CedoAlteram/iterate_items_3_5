@@ -12,3 +12,7 @@ print (hist)
 print("test_branch_1")
 print("that was easy")
 print("ok, that's enough. Good.")
+
+#pythonic way to enumerate over a list!
+for i, az in enumerate(a):
+    print(i, az)
